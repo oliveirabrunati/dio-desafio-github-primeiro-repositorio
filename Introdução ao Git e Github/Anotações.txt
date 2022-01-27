@@ -1,6 +1,7 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git é um sistema de versionamento de código distribuído
 Um sistema distribuído possui múltiplas cópias de si mesmo em diferentes locais
+Um arquivo Markdown utiliza caracteres especiais para formatar textos.
 O Git Bash é um terminal extendido para otimizar o uso do Git, segue abaixo alguns comandos:
  - git init: inicia o git dentro de um repositório
  - git add: adiciona no controle de versão local
